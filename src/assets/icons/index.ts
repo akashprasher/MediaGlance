@@ -1,0 +1,9 @@
+export { default as ZoomInIcon } from './zoom-in-icon.svg';
+export { default as ZoomOutIcon } from './zoom-out-icon.svg';
+export { default as RotateLeftIcon } from './rotate-left-icon.svg';
+export { default as RotateRightIcon } from './rotate-right-icon.svg';
+export { default as ResetIcon } from './reset-icon.svg';
+export { default as CloseIcon } from './close-icon.svg';
+export { default as DownloadIcon } from './download-icon.svg';
+export { default as NextPageIcon } from './right-arrow-icon.svg';
+export { default as PreviousPageIcon } from './left-arrow-icon.svg';
